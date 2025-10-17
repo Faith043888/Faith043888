@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Faith Kalamshe
 
-<!--
-**Faith043888/Faith043888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **ALX Student | Aspiring Front-End Web Developer**
 
-Here are some ideas to get you started:
+I’m a passionate and dedicated front-end developer in training with a strong focus on building responsive, accessible, and user-friendly web applications. I enjoy transforming ideas into visually appealing and functional digital experiences using modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks & Libraries:** React.js, Tailwind CSS  
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Vite  
+- **Other Skills:** Responsive Design, UI Implementation, DOM Manipulation, Version Control
+
+---
+
+### 🌱 Currently Learning
+- Advanced React Concepts and State Management
+- Building Fully Responsive Websites from Figma Designs
+- Improving accessibility and performance in web apps
+
+---
+
+### 📫 Get in Touch
+📧 **Email:** [magagulachari@gmail.com](mailto:magagulachari@gmail.com)  
+🌐 **GitHub:** [github.com/FaithKalamshe](https://github.com/FaithKalamshe)
+
+---
+
+### 💡 About Me
+I’m committed to continuous learning and growth in web development. I value clean, maintainable code and enjoy collaborating on meaningful projects that make a difference. My goal is to become a skilled front-end developer capable of creating impactful, high-quality web solutions.
+
+---
+
+⭐ *“Code is like art — it’s not just about making it work, but making it beautiful.”*
+
