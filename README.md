@@ -24,7 +24,7 @@ I’m a passionate and dedicated front-end developer in training with a strong f
 
 ### 📫 Get in Touch
 📧 **Email:** [magagulachari@gmail.com](mailto:magagulachari@gmail.com)  
-🌐 **GitHub:** [github.com/FaithKalamshe](https://github.com/FaithKalamshe)
+🌐 **GitHub:** [https://github.com/Faith043888]
 
 ---
 
